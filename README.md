@@ -21,6 +21,41 @@ You can view the video [here](insert_video_link_here).
 
 ## Installation
 
+Navigate to the project directory:
+
+bash
+Copy
+cd Stock_Analysis_using-Streamlit
+Install the required libraries:
+
+bash
+Copy
+pip install -r requirements.txt
+Run the Streamlit app:
+
+bash
+Copy
+streamlit run app.py
+This will start the app in your browser.
+
+Requirements
+streamlit
+
+pandas
+
+numpy
+
+matplotlib
+
+yfinance
+
+scikit-learn
+
+You can install all required libraries by running the following command:
+
+bash
+Copy
+pip install -r requirements.txt
 To run this project locally, follow these steps:
 
 1. Clone the repository:
