@@ -17,7 +17,7 @@ A video tutorial has been created to demonstrate the functionalities of the app,
 - **CAPM Analysis**: Understanding the risk and return of a stock using the Capital Asset Pricing Model.
 - **Stock Prediction**: How machine learning models are used to forecast stock prices.
 
-You can view the video [here]("https://youtu.be/L6ZI-xn8NsY").
+
 
 ## Installation
 
@@ -111,4 +111,8 @@ This README file covers all the essential sections, including:
 7. **Contributions**: Invitation for others to contribute to the project.
 8. **Contact**: Information for users to reach out for help.
 
+
+A video tutorial has been created to demonstrate the functionalities of the app:
+
+[Watch the tutorial on YouTube](https://youtu.be/L6ZI-xn8NsY)
 You can now copy this directly into your `README.md` file for the GitHub repository. Let me know if you'd like
