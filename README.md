@@ -17,7 +17,7 @@ A video tutorial has been created to demonstrate the functionalities of the app,
 - **CAPM Analysis**: Understanding the risk and return of a stock using the Capital Asset Pricing Model.
 - **Stock Prediction**: How machine learning models are used to forecast stock prices.
 
-You can view the video [here]("C:\Users\Aayushi mishra\Downloads\4c0adb14-22a1-44f8-a821-63f31b3c0ba9 (1).webm").
+You can view the video [here]("https://youtu.be/L6ZI-xn8NsY").
 
 ## Installation
 
